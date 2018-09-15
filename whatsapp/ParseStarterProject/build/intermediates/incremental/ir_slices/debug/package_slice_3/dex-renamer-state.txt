@@ -1,0 +1,4 @@
+#Sat Sep 15 13:57:10 IST 2018
+base.0=C\:\\Users\\Shreyas Hosmani\\Desktop\\WORKSPACE\\AndroidProjects\\whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex
